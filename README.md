@@ -35,6 +35,7 @@ OVERVIEW: RAPID CAR RACER GAME IN PYTHON
    - Controls: Use designated keys to control the car's direction (details in-game).
    - Scoring: The longer you avoid obstacles, the higher your score.
   
-   ![image](https://github.com/user-attachments/assets/1644ce58-df3d-4b44-bc69-31d5a8ba2c1a)
+   ![testdrive](https://github.com/user-attachments/assets/77c9224a-d49f-4fe3-8510-9116150b5be0)
 
-  ![image](https://github.com/user-attachments/assets/5af0a28f-b012-4050-a60f-3bbc0cdc4013)
+  ![Gameover](https://github.com/user-attachments/assets/0b851b2b-95fd-4f89-a8c4-bc27b2771ff3)
+
